@@ -6,3 +6,4 @@ uv add scikit-learn matplotlib
 
 삭제하는법
 uv remove scikit-learn
+
